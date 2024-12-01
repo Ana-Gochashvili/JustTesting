@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7c5e7d9-cea4-48e8-9fbd-c8a2749b685f" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/../Ana Gochasvili _CV.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation issues.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/BIB_სამუშაო ფაილი.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/Sample-png-image-5mb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet-transfer11111111.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet_transfer/packet-transfer_empty-amount.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet_transfer/packet-transfer_empty-iban.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet_transfer/packet-transfer_empty-purpose.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet_transfer/packet-transfer_empty-receiver-name-credo-transfer.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet_transfer/packet-transfer_empty-receiver-name-other-bank-transfer.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet_transfer/packet-transfer_empty.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet_transfer/packet-transfer_invalid-amount.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet_transfer/packet-transfer_invalid-iban.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet_transfer/packet-transfer_invalid-purpose-length.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet_transfer/packet-transfer_invalid-purpose.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet_transfer/packet-transfer_invalid-receiver-length.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet_transfer/packet-transfer_success.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/packet_transfer/packet-transfer_success.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/screencapture-dev-azure-credobank-TestAutomation-git-test-bib-bmb-common-library-commit-Add get deposit configuration request.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/screencapture-dev-azure-credobank-TestAutomation-git-test-bib-bmb-common-library-commit-edit reqs.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/screencapture-dev-azure-credobank-TestAutomation-git-test-bib-bmb-web-app-commit-upd.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB/swift_png_more_than_5_mb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIB_სამუშაო ფაილი.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Creating a StringBuilder-  substring(), indexOf(), length() ,charAt().PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Credo Share.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Default.rdp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discord.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git/0-02-0b-09ddd7b500203cb2f45f4842ebf7a42d057d743a214986a48dfe18cb548014bb_106a3a6937ac0621.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git/0-02-0b-3c72e58260b9940b6e8f81457fc47ad3010e00cc17bb7cf4aa88410d9a7bb2a5_54cfa9f29632d414.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git/Capture.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub Desktop.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Microsoft Teams.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mycredo Guides.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New Share.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Postman.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primitive Data Types.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/About Testing - Resouces.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Agile/Agile.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Agile/MicrosoftTeams-image (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Agile/MicrosoftTeams-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Agile/Scrum.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Agile/screencapture-agilemanifesto-org-iso-ka-manifesto-html-2023-10-15-20_34_57.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Agile/screencapture-agilemanifesto-org-iso-ka-manifesto-html-2023-10-15-20_34_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Agile/ეჯაილ პროგრამირების მანიფესტი ENGLISH.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Agile/ეჯაილ პროგრამირების მანიფესტი.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Agile/ეჯაილის 12 პრინციპი ENGLISH.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Agile/ეჯაილის 12 პრინციპი.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 10 სტატიკური და დინამიური ტესტირება/ლექცია მეათე სტატიკური და დინამიური ტესტირება.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 10 სტატიკური და დინამიური ტესტირება/მეათე ლექციის ჩანაწერი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 11 Test plan and Check List/ლექცია მეთერთმეტე Test plan and Check List.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 11 Test plan and Check List/მეთერთმეტე ლექცია 1 ნაწილი-chack list.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 11 Test plan and Check List/მეთერთმეტე ლექცია 2 ნაწილი-dev tools.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 12 Test Scenarion_Test_Summary_DevTools/ლექცია მეთორმეტე Test Scenarion_Test_Summary_DevTools.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 12 Test Scenarion_Test_Summary_DevTools/მეორე ნაწილი 12 ლექცია.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 12 Test Scenarion_Test_Summary_DevTools/პირველი ნაწილი 12 ლექცია.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 14 15 16 API/14 ლექცია მეორე ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 14 15 16 API/14 ლექცია პირველი ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 14 15 16 API/15 ლექცია ნაწილი მეორე.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 14 15 16 API/15 ლექცია ნაწილი პირველი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 14 15 16 API/16 ლექცია 1 ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 14 15 16 API/16 ლექცია 2 ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 14 15 16 API/ლექცია 14.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 14 15 16 API/ლექცია.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 17 18 SQL/18 ლექცია მეორე ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 17 18 SQL/ლექცია 17 ბაზები.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 17 18 SQL/ლექცია 17 მეორე ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 17 18 SQL/ლექცია 17 პირველი ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 17 18 SQL/ლექცია 18 პირველი ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 19 LOAD TESTING/19 ლექცია მეორე ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 19 LOAD TESTING/19 ლექცია მესამე ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 19 LOAD TESTING/19 ლექცია პირველი ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 2 STLC Debugging/ლექცია მეორე STLC  Debugging.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 20 CYPRESS/20 ლექცია მეორე ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 20 CYPRESS/20 ლექცია პირველი ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 3 ტესტირების 7 პრინციპი/ლექცია მესამე ტესტირების 7 პრინციპი.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 4 Test Case-Test Data - Made with Clipchamp/მეოთხე ლექცია Test Case-Test Data - Made with Clipchamp.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 5 Type of bugs/ლექცია 5.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 5 Type of bugs/ლექცია მეხუთე BLC.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 5 Type of bugs/ლექცია.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 6 Bug Life cycle/ლექცია 6_1.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 6 Bug Life cycle/ლექცია 6_2.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 6 Bug Life cycle/ლექცია მეექვსე Bug Life cycle.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 7 Agile and Scrum/ლექცია მეშვიდე Agile and Scrum.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 7 Agile and Scrum/მეშვიდე ლექცია.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 9 Testing LevelsTypesTechniques/ლექცია 9 მეორე ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 9 Testing LevelsTypesTechniques/ლექცია 9 მესამე ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 9 Testing LevelsTypesTechniques/ლექცია 9 პირველი ნაწილი.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Credo Academy/ლექცია 9 Testing LevelsTypesTechniques/ლექცია Testing LevelsTypesTechniques.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Lela API testing's videos/API Testing(Postman, Swagger).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Lela API testing's videos/Postman.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Lela API testing's videos/SQL - ნაწილი2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Lela API testing's videos/SQL.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Manual Testing/1688447539874.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Manual Testing/1_9iilv57EuWZFIeFqp6twyw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Manual Testing/API-Lifecycle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Manual Testing/API-Testing-and-Web-Services.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Manual Testing/Smart/Smart/API   SQL.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Manual Testing/Smart/Smart/Mobile App Testing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Manual Testing/Smart/Smart/Smart - ლექცია IV.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA Testing/Manual Testing/Smart/Smart/Smart - ლექცია V.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2pcSFoiEvGaHdMYm3ktSEqUxip5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ana.gochashvili/Desktop/JustTest/src/main/java/org/example/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7c5e7d9-cea4-48e8-9fbd-c8a2749b685f" name="Changes" comment="" />
+      <created>1733063769760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733063769760</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1733064383335</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733064383335</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
